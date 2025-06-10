@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-02-24T16:12:30 MST" name="Suite" finished-at="2025-02-24T16:12:31 MST" duration-ms="1537">
+    <groups>
+    </groups>
+    <test started-at="2025-02-24T16:12:30 MST" name="Test" finished-at="2025-02-24T16:12:31 MST" duration-ms="1537">
+      <class name="exceldata.Excel">
+        <test-method signature="testCaseData(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:exceldata.Excel@3214ee6]" started-at="2025-02-24T16:12:31 MST" name="testCaseData" data-provider="getExcelData" finished-at="2025-02-24T16:12:31 MST" duration-ms="15" status="PASS">
+          <params>
+            <param index="0">
+              <value is-null="true"/>
+            </param>
+            <param index="1">
+              <value is-null="true"/>
+            </param>
+            <param index="2">
+              <value is-null="true"/>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCaseData -->
+        <test-method signature="testCaseData(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:exceldata.Excel@3214ee6]" started-at="2025-02-24T16:12:31 MST" name="testCaseData" data-provider="getExcelData" finished-at="2025-02-24T16:12:31 MST" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Helo]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[text]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCaseData -->
+        <test-method signature="testCaseData(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:exceldata.Excel@3214ee6]" started-at="2025-02-24T16:12:31 MST" name="testCaseData" data-provider="getExcelData" finished-at="2025-02-24T16:12:31 MST" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Bye]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[message]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[b]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCaseData -->
+        <test-method signature="testCaseData(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:exceldata.Excel@3214ee6]" started-at="2025-02-24T16:12:31 MST" name="testCaseData" data-provider="getExcelData" finished-at="2025-02-24T16:12:31 MST" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Solo]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[call]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[c]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCaseData -->
+      </class> <!-- exceldata.Excel -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-05-13T10:47:24 MDT" name="Default suite" finished-at="2025-05-13T10:48:05 MDT" duration-ms="41058">
+    <groups>
+    </groups>
+    <test started-at="2025-05-13T10:47:24 MDT" name="Default test" finished-at="2025-05-13T10:48:05 MDT" duration-ms="41058">
+      <class name="sujaniacademy.appium1.SwipeDemo">
+        <test-method is-config="true" signature="configureAppium()[pri:0, instance:sujaniacademy.appium1.SwipeDemo@618b19ad]" started-at="2025-05-13T10:47:24 MDT" name="configureAppium" finished-at="2025-05-13T10:47:48 MDT" duration-ms="23881" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configureAppium -->
+        <test-method signature="scrollDemoTestt()[pri:0, instance:sujaniacademy.appium1.SwipeDemo@618b19ad]" started-at="2025-05-13T10:47:48 MDT" name="scrollDemoTestt" finished-at="2025-05-13T10:48:02 MDT" duration-ms="14225" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- scrollDemoTestt -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:sujaniacademy.appium1.SwipeDemo@618b19ad]" started-at="2025-05-13T10:48:02 MDT" name="tearDown" finished-at="2025-05-13T10:48:05 MDT" duration-ms="2753" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- sujaniacademy.appium1.SwipeDemo -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

@@ -1,0 +1,161 @@
+13:21:01.048 [main] INFO  com.api.listeners.TestListener - Test Suite Started!!
+13:21:01.109 [main] INFO  com.api.listeners.TestListener - Test Started loginTest
+13:21:04.216 [main] INFO  com.api.listeners.TestListener - Passed loginTest
+13:21:04.216 [main] INFO  com.api.listeners.TestListener - Description 
+13:21:04.344 [main] INFO  com.api.listeners.TestListener - Test Suite Completed!!
+16:25:14.638 [main] INFO  com.api.listeners.TestListener - Test Suite Started!!
+16:25:14.700 [main] INFO  com.api.listeners.TestListener - Test Started loginTest
+16:25:16.421 [main] INFO  com.api.filters.LogginFilter - BASE URI:http://64.227.160.186:8080
+16:25:16.422 [main] INFO  com.api.filters.LogginFilter - BASE URI:Accept=*/*
+Content-Type=application/json
+16:25:16.424 [main] INFO  com.api.filters.LogginFilter - BASE URI:{"username":"sujaniw","password":"MyLokupusa123#@"}
+16:25:17.763 [main] INFO  com.api.filters.LogginFilter - Status Code:200
+16:25:17.764 [main] INFO  com.api.filters.LogginFilter - Response Header payload:Vary=Origin
+Vary=Access-Control-Request-Method
+Vary=Access-Control-Request-Headers
+Access-Control-Allow-Origin=https://swift.techwithjatin.com
+Access-Control-Allow-Methods=GET, POST, PUT, DELETE, OPTIONS
+Access-Control-Max-Age=3600
+Access-Control-Allow-Headers=Authorization, Content-Type, Accept
+Access-Control-Allow-Credentials=true
+X-Content-Type-Options=nosniff
+X-XSS-Protection=0
+Cache-Control=no-cache, no-store, max-age=0, must-revalidate
+Pragma=no-cache
+Expires=0
+X-Frame-Options=DENY
+Content-Type=application/json
+Transfer-Encoding=chunked
+Date=Mon, 09 Jun 2025 22:25:18 GMT
+Keep-Alive=timeout=60
+Connection=keep-alive
+16:25:17.825 [main] INFO  com.api.filters.LogginFilter - Response body:{
+    "token": "eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJzdWphbml3IiwiaWF0IjoxNzQ5NTA3OTE4LCJleHAiOjE3NDk1MTE1MTh9.FOILkBzFtH4AF-D-8C-bPTOMzCDwnkE29H8ciDRM-7Y",
+    "type": "Bearer",
+    "id": 1489,
+    "username": "sujaniw",
+    "email": "sujaniw@yahoo.com",
+    "roles": [
+        "ROLE_USER"
+    ]
+}
+16:25:17.891 [main] INFO  com.api.listeners.TestListener - Passed loginTest
+16:25:17.892 [main] INFO  com.api.listeners.TestListener - Description 
+16:25:17.945 [main] INFO  com.api.listeners.TestListener - Test Suite Completed!!
+16:55:19.855 [main] INFO  com.api.listeners.TestListener - Test Suite Started!!
+16:55:19.907 [main] INFO  com.api.listeners.TestListener - Test Started loginTest
+16:55:22.670 [main] INFO  com.api.filters.LogginFilter - BASE URI:http://64.227.160.186:8080
+16:55:22.671 [main] INFO  com.api.filters.LogginFilter - BASE URI:Accept=*/*
+Content-Type=application/json
+16:55:22.671 [main] INFO  com.api.filters.LogginFilter - BASE URI:{"username":"sujaniw","password":"MyLokupusa123#@"}
+16:55:24.326 [main] INFO  com.api.filters.LogginFilter - Status Code:200
+16:55:24.327 [main] INFO  com.api.filters.LogginFilter - Response Header payload:Vary=Origin
+Vary=Access-Control-Request-Method
+Vary=Access-Control-Request-Headers
+Access-Control-Allow-Origin=https://swift.techwithjatin.com
+Access-Control-Allow-Methods=GET, POST, PUT, DELETE, OPTIONS
+Access-Control-Max-Age=3600
+Access-Control-Allow-Headers=Authorization, Content-Type, Accept
+Access-Control-Allow-Credentials=true
+X-Content-Type-Options=nosniff
+X-XSS-Protection=0
+Cache-Control=no-cache, no-store, max-age=0, must-revalidate
+Pragma=no-cache
+Expires=0
+X-Frame-Options=DENY
+Content-Type=application/json
+Transfer-Encoding=chunked
+Date=Mon, 09 Jun 2025 22:55:24 GMT
+Keep-Alive=timeout=60
+Connection=keep-alive
+16:55:24.401 [main] INFO  com.api.filters.LogginFilter - Response body:{
+    "token": "eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJzdWphbml3IiwiaWF0IjoxNzQ5NTA5NzI0LCJleHAiOjE3NDk1MTMzMjR9.cJG39UqhkjAq7t4Tbu_sVJC1EKVfZKp9rDuxFOrlJfY",
+    "type": "Bearer",
+    "id": 1489,
+    "username": "sujaniw",
+    "email": "sujaniw@yahoo.com",
+    "roles": [
+        "ROLE_USER"
+    ]
+}
+16:55:24.517 [main] INFO  com.api.listeners.TestListener - Passed loginTest
+16:55:24.517 [main] INFO  com.api.listeners.TestListener - Description 
+16:55:24.577 [main] INFO  com.api.listeners.TestListener - Test Suite Completed!!
+17:11:11.294 [main] INFO  com.api.listeners.TestListener - Test Suite Started!!
+17:11:11.338 [main] INFO  com.api.listeners.TestListener - Test Started loginTest
+17:11:13.031 [main] INFO  com.api.filters.LogginFilter - BASE URI:http://64.227.160.186:8080
+17:11:13.031 [main] INFO  com.api.filters.LogginFilter - BASE URI:Accept=*/*
+Content-Type=application/json
+17:11:13.032 [main] INFO  com.api.filters.LogginFilter - BASE URI:{"username":"sujaniw","password":"MyLokupusa123#@"}
+17:11:14.424 [main] INFO  com.api.filters.LogginFilter - Status Code:200
+17:11:14.424 [main] INFO  com.api.filters.LogginFilter - Response Header payload:Vary=Origin
+Vary=Access-Control-Request-Method
+Vary=Access-Control-Request-Headers
+Access-Control-Allow-Origin=https://swift.techwithjatin.com
+Access-Control-Allow-Methods=GET, POST, PUT, DELETE, OPTIONS
+Access-Control-Max-Age=3600
+Access-Control-Allow-Headers=Authorization, Content-Type, Accept
+Access-Control-Allow-Credentials=true
+X-Content-Type-Options=nosniff
+X-XSS-Protection=0
+Cache-Control=no-cache, no-store, max-age=0, must-revalidate
+Pragma=no-cache
+Expires=0
+X-Frame-Options=DENY
+Content-Type=application/json
+Transfer-Encoding=chunked
+Date=Mon, 09 Jun 2025 23:11:14 GMT
+Keep-Alive=timeout=60
+Connection=keep-alive
+17:11:14.485 [main] INFO  com.api.filters.LogginFilter - Response body:{
+    "token": "eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJzdWphbml3IiwiaWF0IjoxNzQ5NTEwNjc0LCJleHAiOjE3NDk1MTQyNzR9.TazesnhCCVQ0bx2D1i3y6QpMyk-Sz8kkDALCGaOauhM",
+    "type": "Bearer",
+    "id": 1489,
+    "username": "sujaniw",
+    "email": "sujaniw@yahoo.com",
+    "roles": [
+        "ROLE_USER"
+    ]
+}
+17:11:14.548 [main] INFO  com.api.listeners.TestListener - Passed loginTest
+17:11:14.549 [main] INFO  com.api.listeners.TestListener - Description 
+17:11:14.580 [main] INFO  com.api.listeners.TestListener - Test Suite Completed!!
+17:13:08.068 [main] INFO  com.api.listeners.TestListener - Test Suite Started!!
+17:13:08.116 [main] INFO  com.api.listeners.TestListener - Test Started loginTest
+17:13:09.874 [main] INFO  com.api.filters.LogginFilter - BASE URI:http://64.227.160.186:8080
+17:13:09.875 [main] INFO  com.api.filters.LogginFilter - BASE URI:Accept=*/*
+Content-Type=application/json
+17:13:09.876 [main] INFO  com.api.filters.LogginFilter - BASE URI:{"username":"sujaniw","password":"MyLokupusa123#@"}
+17:13:11.262 [main] INFO  com.api.filters.LogginFilter - Status Code:200
+17:13:11.263 [main] INFO  com.api.filters.LogginFilter - Response Header payload:Vary=Origin
+Vary=Access-Control-Request-Method
+Vary=Access-Control-Request-Headers
+Access-Control-Allow-Origin=https://swift.techwithjatin.com
+Access-Control-Allow-Methods=GET, POST, PUT, DELETE, OPTIONS
+Access-Control-Max-Age=3600
+Access-Control-Allow-Headers=Authorization, Content-Type, Accept
+Access-Control-Allow-Credentials=true
+X-Content-Type-Options=nosniff
+X-XSS-Protection=0
+Cache-Control=no-cache, no-store, max-age=0, must-revalidate
+Pragma=no-cache
+Expires=0
+X-Frame-Options=DENY
+Content-Type=application/json
+Transfer-Encoding=chunked
+Date=Mon, 09 Jun 2025 23:13:11 GMT
+Keep-Alive=timeout=60
+Connection=keep-alive
+17:13:11.804 [main] INFO  com.api.filters.LogginFilter - Response body:{
+    "token": "eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJzdWphbml3IiwiaWF0IjoxNzQ5NTEwNzkxLCJleHAiOjE3NDk1MTQzOTF9.uouXNEV9A46f1sFp2Vj7HJ_S21xks1E_Ls9PFR9PvYs",
+    "type": "Bearer",
+    "id": 1489,
+    "username": "sujaniw",
+    "email": "sujaniw@yahoo.com",
+    "roles": [
+        "ROLE_USER"
+    ]
+}
+17:13:12.424 [main] INFO  com.api.listeners.TestListener - Passed loginTest
+17:13:12.424 [main] INFO  com.api.listeners.TestListener - Description 
+17:13:13.469 [main] INFO  com.api.listeners.TestListener - Test Suite Completed!!

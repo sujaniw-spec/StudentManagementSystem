@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="API Test Suite" >
+  <test thread-count="5" name="API test">
+    <classes>
+      <class name="com.api.test.LoginAPITest2"/>       
+      <!-- com.api.test.LoginAPITest2 -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->
+
+<!-- mvn clean test -Dsuite=Suite.xml -->

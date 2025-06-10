@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-05-09T10:37:13 MDT" name="Suite" finished-at="2025-05-09T10:38:58 MDT" duration-ms="105062">
+    <groups>
+    </groups>
+    <test started-at="2025-05-09T10:37:13 MDT" name="Test" finished-at="2025-05-09T10:38:58 MDT" duration-ms="105062">
+      <class name="remotetesting.dockervalidation.ChromeNodeTest3">
+        <test-method signature="test3()[pri:0, instance:remotetesting.dockervalidation.ChromeNodeTest3@1ea9f6af]" started-at="2025-05-09T10:38:01 MDT" name="test3" finished-at="2025-05-09T10:38:39 MDT" duration-ms="37968" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test3 -->
+      </class> <!-- remotetesting.dockervalidation.ChromeNodeTest3 -->
+      <class name="remotetesting.dockervalidation.ChromeNodeTest2">
+        <test-method signature="test2()[pri:0, instance:remotetesting.dockervalidation.ChromeNodeTest2@188715b5]" started-at="2025-05-09T10:38:01 MDT" name="test2" finished-at="2025-05-09T10:38:41 MDT" duration-ms="40102" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+      </class> <!-- remotetesting.dockervalidation.ChromeNodeTest2 -->
+      <class name="remotetesting.dockervalidation.ChromeNodeTest1">
+        <test-method is-config="true" signature="startDocker()[pri:0, instance:remotetesting.dockervalidation.ChromeNodeTest1@243c4f91]" started-at="2025-05-09T10:37:13 MDT" name="startDocker" finished-at="2025-05-09T10:38:01 MDT" duration-ms="47270" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startDocker -->
+        <test-method signature="test1()[pri:0, instance:remotetesting.dockervalidation.ChromeNodeTest1@243c4f91]" started-at="2025-05-09T10:38:01 MDT" name="test1" finished-at="2025-05-09T10:38:39 MDT" duration-ms="38247" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method is-config="true" signature="stopDocker()[pri:0, instance:remotetesting.dockervalidation.ChromeNodeTest1@243c4f91]" started-at="2025-05-09T10:38:41 MDT" name="stopDocker" finished-at="2025-05-09T10:38:58 MDT" duration-ms="17462" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- stopDocker -->
+      </class> <!-- remotetesting.dockervalidation.ChromeNodeTest1 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

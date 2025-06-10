@@ -1,0 +1,7 @@
+remotetesting\dockervalidation\ChromeNodeTest1.class
+remotetesting\dockervalidation\StandloneFireFoxTest.class
+remotetesting\dockervalidation\StopDockerHub.class
+remotetesting\dockervalidation\ChromeNodeTest3.class
+remotetesting\dockervalidation\ChromeStandloneTest.class
+remotetesting\dockervalidation\ChromeNodeTest2.class
+remotetesting\dockervalidation\StartDocker.class
